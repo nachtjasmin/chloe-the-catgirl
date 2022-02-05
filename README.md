@@ -1,6 +1,32 @@
-- 👋 Hi, I’m @chloe-the-catgirl
-- 👀 I’m interested in Go, Svelte, great UI/UX.
-- 🌱 I’m currently learning JavaScript stuff.
-- 💞️ I’m looking to collaborate on ... actually, right now, nothing.
-- 📫 How to reach me: Twitter, Mail. Please no telephone. I hate phones.
+```http
+GET https://localhost:1312/chloe-the-catgirl
+Accept-Language: de-DE; en
+Content-Type: application/json
 
+{
+	"name": "Jasmin",
+	"interestedIn": [
+		"Go",
+		"Svelte",
+		"User interfaces",
+		"UX design"
+	],
+	"employed": true,
+	"contact": {
+		"twitter": "https://twitter.com/nachtjasmin"
+	},
+	"avoid": ["mail"],
+	"loves": [
+		"kittens",
+		"trans rights",
+		"gay stuff"
+	],
+	"hates": [
+		"TERFs",
+		"SWERFs",
+		"cops",
+		"printers",
+		"telephones",
+	]
+}
+```
