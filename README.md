@@ -1,5 +1,23 @@
-👋 Hi, I’m Jasmin. Or Chloe. Depends on the day.
+## Hi there! 👋
 
-👀 Sometimes I'm annoyed by the government, which results in things like the [Corona-Nörgel-App](https://github.com/chloe-the-catgirl/corona-noergel-app). But most of the time, I just like doing things with Go and Svelte.
+Hey, I'm Jasmin, your local agender chaos goblin from Germany. My pronouns are _they/them_, but you can
+also use _sie/ihr_ if you're referencing me in German.
 
-🌱 Looking forward to the end of the pandemic to do stuff normal people do, like visiting a restaurant.
+- 👩‍💻 Working on several software projects, written in Go, JavaScript/TypeScript and (unfortunately, but only at work) Java.
+- 🤖 If it can be automated, I want to automate it.
+- ♿ I'm focusing on creating accessible user interfaces and accessibility in general.
+- 👀 Right now, I'm learning stuff about DevOps strategies and so on.
+
+### 📫 How to reach me
+
+I'd prefer communication with Matrix, I'm available as @jasmin:catgirl.cloud there.
+If we already know each other, we can also use Signal.
+
+### Other platforms
+
+- Twitter: [@nachtjasmin](https://twitter.com/nachtjasmin)
+- StackOverflow: https://stackoverflow.com/users/6565273/nachtjasmin
+
+### 🐈 meow?
+
+<small>no, I'm actually not a catgirl. It's just an escalated meme.</small>
