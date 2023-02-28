@@ -15,9 +15,8 @@ If we already know each other, we can also use Signal.
 
 ### Other platforms
 
-- Twitter: [@nachtjasmin](https://twitter.com/nachtjasmin)
-- StackOverflow: https://stackoverflow.com/users/6565273/nachtjasmin
 - Mastodon: [@jasmin@queer.group](https://queer.group/@jasmin)
+- [StackOverflow](https://stackoverflow.com/users/6565273/nachtjasmin)
 
 ### 🐈 meow?
 
